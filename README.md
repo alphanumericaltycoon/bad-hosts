@@ -1,7 +1,7 @@
 # bad-hosts
 **Introduction**
 
-I have copied this list of bad websites/urls for use with my Pi-hole (advertisement and Internet tracker blocking application). You are welcome to use it for this purpose too.
+I have copied this list of bad websites/urls for use with my [Pi-hole](https://pi-hole.net/) (advertisement and Internet tracker blocking application). You are welcome to use it for this purpose too.
 
 **How to use (via GUI)**
 
